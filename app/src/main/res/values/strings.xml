@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="place_holder_erro_connection_message">Упс, что то пошло не так</string>
+    <string name="refresh">Обновить</string>
+</resources>
